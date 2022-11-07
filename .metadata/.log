@@ -111,3 +111,51 @@ java.lang.Error: SWT Resource was not properly disposed
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
 	at org.eclipse.equinox.launcher.Main.main(Main.java:1440)
+
+!ENTRY org.eclipse.ui 2 2 2022-11-07 10:31:17.218
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-07 10:31:48.689
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-07 10:31:48.690
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@48363824[org.springframework.tooling.boot.ls:1.32.0.202203131529(id=984)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-07 10:31:48.694
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-07 10:31:48.727
+!MESSAGE Instantiating ReusableClasspathListenerHandler
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-07 10:31:54.509
+!MESSAGE Boot LS startup time from start to initialized: 5800ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-07 10:31:54.864
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.VradCRDHisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-07 10:31:54.869
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-07 10:31:54.872
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-07 10:31:54.873
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-07 10:31:54.874
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.VradCRDH => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-07 10:31:54.877
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-07 10:31:54.889
+!MESSAGE classpath=64 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-07 10:31:54.903
+!MESSAGE buffering callback sts4.classpath.VradCRDH FirstGitApp false 64
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-07 10:31:54.904
+!MESSAGE executing callback sts4.classpath.VradCRDH 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-11-07 10:31:55.669
+!MESSAGE executing callback sts4.classpath.VradCRDH SUCCESS [done]
